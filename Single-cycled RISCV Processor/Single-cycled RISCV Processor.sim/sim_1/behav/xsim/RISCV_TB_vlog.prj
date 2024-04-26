@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/ALU_64_bit.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/ALU_Control.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Adder.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Branch_Unit.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Control_Unit.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Data_Memory.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Instruction_Memory.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Instruction_Parser.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/MUX_2x1.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Program_Counter.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/Register_File.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/RiscV_processor.v" \
+"../../../../../Single Cycle Processor -Task 1/Single Cycle Processor -Task 1.srcs/sources_1/new/imm_data_extractor.v" \
+"../../../../Single-cycled RISCV Processor.srcs/sim_1/new/RISCV_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
