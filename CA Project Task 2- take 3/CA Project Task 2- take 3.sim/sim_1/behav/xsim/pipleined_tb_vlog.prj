@@ -1,22 +1,22 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/adder.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/alu_64.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/alu_control.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/branching_unit.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/control_unit.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/data_mem.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/ex_mem.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/hazard_processor.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/id_ex.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/if_id.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/imm_gen.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/instruction_memory.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/instruction_parser.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/mem_wb.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/mux.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/program_counter.v" \
-"../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/register_file.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/adder.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/alu_64.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/alu_control.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/branching_unit.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/control_unit.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/data_mem.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/ex_mem.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/hazard_processor.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/id_ex.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/if_id.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/imm_gen.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/instruction_memory.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/instruction_parser.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/mem_wb.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/mux.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/program_counter.v" \
+"../../../../../../../Downloads/Task_2/Task_2.srcs/sources_1/new/register_file.v" \
 "../../../../CA Project Task 2- take 3.srcs/sim_1/new/pipleined_tb.v" \
 
 # compile glbl module

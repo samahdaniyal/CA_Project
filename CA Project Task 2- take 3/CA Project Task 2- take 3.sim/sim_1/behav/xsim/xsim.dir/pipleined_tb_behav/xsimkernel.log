@@ -1,7 +1,4 @@
-Running: xsim.dir/pipleined_tb_behav/xsimk.exe -simmode gui -wdb pipleined_tb_behav.wdb -simrunnum 0 -socket 55527
+Running: xsim.dir/pipleined_tb_behav/xsimk.exe -simmode gui -wdb pipleined_tb_behav.wdb -simrunnum 0 -socket 56653
 Design successfully loaded
-Design Loading Memory Usage: 6864 KB (Peak: 6864 KB)
+Design Loading Memory Usage: 6868 KB (Peak: 6868 KB)
 Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 7656 KB (Peak: 7656 KB)
-Simulation CPU Usage: 15 ms
